@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "/"
-title = "Meghna"
+baseURL = "https://www.muchatech.com"
+title = "MuchaTech"
 theme = "meghna-hugo-master"
 # post pagination
 paginate = "6"
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = [fr]
 
 ############################# Plugins ##########################
 # css plugins
@@ -61,10 +61,10 @@ name = "team"
 url = "#team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "blog"
@@ -77,76 +77,34 @@ url = "#contact"
 weight = 7
 
 
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
+#[[Languages.en.menu.main]]
+#name = "Dropdown"
+#weight = 7
+#hasChildren = true
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 1"
+#url = "#"
+#weight = 1
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 2"
+#url = "#"
+#weight = 2
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#url = "https://themefisher.com/"
+#weight = 8
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Cybersecurity and software development company"
+author = "Motape Oswald Langa"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -203,13 +161,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [Motape Oswald Langa](https://github.com/oswaldmotape)"

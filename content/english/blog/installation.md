@@ -61,6 +61,12 @@ When building the website, you can set a theme by using `--theme` option. Howeve
 theme = "meghna-hugo"
 ```
 
+```css
+body {
+    color: red;
+}
+```
+
 ### STEP-6 : Create your first content pages
 
 ```
@@ -69,7 +75,7 @@ hugo new blog/post-name.md
 
 ### STEP-7 : Build the website
 
-When your site is ready to deploy, run the following command:
+`When` your site is ready to deploy, run the following command:
 
 ```
 hugo
