@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Hackers
-    content : Certified ethical hackers with vision to make the connected world safer and as secure as possible.
+    title : We're Ethical Hackers
+    content : Certified hackers with the vision to make the connected world safer and as secure as possible.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Modern
-    content : Security is a process and we strive to stay relevant and up to date through research and hands on testing.
+    content : Security is a process and we strive to stay current through research, development and hands on testing.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Agile
-    content : Through controlled and dynamic methodology to adapt to the constantly changing data-driven world.
+    content : Through controlled and dynamic methodology to adapt to the constantly changing and connected data-driven world.

@@ -2,23 +2,23 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of Cybersecurity and Other IT development tools.
+  subtitle : We’ve skilled in wide range of Cybersecurity and IT software development.
   content : Efficient and reliable teamwork through our inhouse talent and professionals!
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Automation
+    - name :  Vulnerability Assessments
       percent : 75%
       
     # skill item loop
-    - name :  Analysis
+    - name :  Data Analysis
       percent : 75%
       
     # skill item loop
-    - name :  Privacy and Anonymity
+    - name :  Source Code Analysis
       percent : 80%
       
-    - name :  Development
+    - name :  Secure Workflow Patterns
       percent : 85%
       
     # skill item loop

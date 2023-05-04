@@ -7,8 +7,8 @@ team:
     - name : Motape Oswald Langa
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
-      designation : CEO/Founder/Cybersecurity Engineer
-      content : Ensuring we compete against the best in the IT space.
+      designation : Founder/Cybersecurity Engineer
+      content : Ensuring we best serve our clients in various industries.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"

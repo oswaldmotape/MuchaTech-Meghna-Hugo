@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Secure your `assets`, the new reality"
-  content : "Security Software Development Life Cycle { `SSDLC` } your business assets!"
+  title : "`Cybersecurity` your assets, the new reality"
+  content : "`{}` Your business `assets` are protected in our hands!"
   button:
     enable : true
     label : "Explore Us"

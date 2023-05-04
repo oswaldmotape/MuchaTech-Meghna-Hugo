@@ -4,30 +4,34 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Anonymity and Privacy
+    - name : Privacy And Anonymity
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Protect your real identity an action when it matters. Protect your privacy and enable freedom of speech on the internet.     
+      content : Protect your identity and actions online when it matters. Enable privacy and freedom of speech on the internet.     
+
     # service item loop
     - name : Cybersecurity
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Secure your connected systems, business assets and stay compliant in today's data driven world.
-      
+
     # service item loop
-    - name : Algorithmic Bots
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Turn investing strategies into automated machines to monitor, trade, notify you about market actions.
-      
+    - name : DevSecOps
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Merge software development and operations teams for faster service and delivery.  
+
     # service item loop
-    - name : Automation
+    - name : Process Automation
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Tasks, business processes and operations for a modern and faster workforce.
+      content : Tasks, business logic and operations for faster client service.
 
     # service item loop
     - name : Sotware Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Security controls, tests and workflows at the heart of each SDLC phases.
-      
+      content : Turn ideas into reality through secure software development life cycle.      
+    
     # service item loop
-    - name : DevSecOps
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Merge security, develpement and operations teams for faster service and delivery.
+    - name : Algorithmic Bots
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Turn investing strategies into automated machines to monitor, trade and get notified about the market.
+      
+
+    
