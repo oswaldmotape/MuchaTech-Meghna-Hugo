@@ -16,11 +16,11 @@ testimonial:
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 26, 2018
-      content : I have never worked with such talented individual who are passionate about thier work!
+      content : I have never worked with such talented individuals who are passionate about thier work!
       
     # testimonial item loop
     - name : Lemos Kail
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : MuchaTech understand the importance of client satisfaction and client retention by paying attention to details!
+      content : MuchaTech understands the importance of client satisfaction and client retention by paying attention to details!
