@@ -9,7 +9,7 @@ testimonial:
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : Love their energy and profesionalism.
+      content : Love their energy, level of profesionalism and their work ethics.
 
     # testimonial item loop
     - name : Mark Dinn
