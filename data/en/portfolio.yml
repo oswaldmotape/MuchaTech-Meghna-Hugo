@@ -4,10 +4,10 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : MeensPay Investments
+    - name : MeensPay Traction
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["development", "algorithmic robots", "investment"]
+      categories : ["development", "algorithmic robots"]
       content : Offers taxi industry a chance to start investing.
       link : "https://meenspay.co.za/invest"
       
@@ -24,7 +24,7 @@ portfolio:
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
       categories : ["cybersecurity", "development"]
-      content : Implement security controls to critical system.
+      content : Implemented security controls to critical system.
       link : "https://metq.co.za"
       
     # portfolio item loop
@@ -39,6 +39,6 @@ portfolio:
     - name : MeensPay App
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["development", "design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["development", "design", "cyberseccuirty"]
+      content : Effecient and easy to navigate payment applicaion for taxi industry.
       link : "https://meenspay.co.za/app"

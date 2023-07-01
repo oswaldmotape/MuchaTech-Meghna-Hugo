@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   title : "Proactive Services & Incredible Features"
-  content : "Securely serving our clients is our bloodline" #We Help Businesses Grow Securely
+  content : "Helping Businesses Grow Securely is Our Bloodline"
   button:
     enable : true
     label : "Start a project with us"

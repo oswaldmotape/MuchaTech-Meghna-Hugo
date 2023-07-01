@@ -3,25 +3,26 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Cybersecurity-Software Focused Company.
+  title : We’re a Cybersecurity-Software Focused Company.
   content : "Services that grow securely with your data-driven business"
   feature_item : 
+
       # feature item loop
-    - title : Application Security
+    - title : Security Assessments
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : A Cybersecurity health check for your organisation.
+
+      # feature item loop
+    - title : Penetration Testing
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Rigorous vulnerability assessments and comprehensive penetration tests to your business environments.
+
+      # feature item loop
+    - title : Application & Network Security
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Internet facing applications with the potential to expose your valuable asssets to maliciaous hackers.
+      content : Reduce the risk of a breach within your application
       
       # feature item loop
     - title : Secure Software Development Life Cycle
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Culture of implementing security controls to the development of business applications.
-
-      # feature item loop
-    - title : Business Risk Assessments
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Vulnerability assessements of business infrastructure and risk costs associated with threats findings. 
-      
-      # feature item loop
-    - title : Penetration Testing
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Test how well your implemented security controls through rigorous penetrations tests/attacks to your scoped environments.
+      content : Implementing security controls to the development of applications.
