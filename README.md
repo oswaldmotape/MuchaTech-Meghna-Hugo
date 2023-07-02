@@ -1,2 +1,3 @@
-# MuchaTech-Meghna-Hugo
-hugo inspired static website for muchatech company
+# MuchaTech Static Site
+hugo platform inspired website
+hosted by Github pages
