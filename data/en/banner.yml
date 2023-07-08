@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "`Cybersecurity` your assets, the new reality"
-  content : "`{}` Business `assets` are protected in our hands!"
+  content : "`{}` Company `assets` are protected in our hands!"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Explore Us" 
     link : "#services"
