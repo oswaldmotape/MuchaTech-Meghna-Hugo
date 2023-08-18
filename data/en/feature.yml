@@ -20,7 +20,7 @@ feature:
       # feature item loop
     - title : Application & Network Security
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Reduce the risk of a breach within your application.
+      content : Reduce the risk of data breach within your application.
       
       # feature item loop
     - title : Secure Software Development Life Cycle
