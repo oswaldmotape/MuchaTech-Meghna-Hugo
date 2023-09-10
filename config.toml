@@ -103,7 +103,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "A cybersecurity focused and software development company"
+description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
 # Google Analytics
 google_analytics_id = "" # Your ID
