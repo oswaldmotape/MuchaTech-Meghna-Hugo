@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.muchatech.com"
+baseURL = "https://muchatech-b3a3c.web.app" #"https://www.muchatech.com"
 title = "MuchaTech"
 theme = "meghna-hugo"
 # post pagination
