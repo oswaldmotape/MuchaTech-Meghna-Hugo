@@ -10,7 +10,7 @@ feature:
       # feature item loop
     - title : Security Assessments
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : A cybersecurity health check for your organisation.
+      content : A cybersecurity health check for your thriving organisation.
 
       # feature item loop
     - title : Penetration Testing
@@ -23,6 +23,6 @@ feature:
       content : Reduce the risk of data breach within your application.
       
       # feature item loop
-    - title : Secure Software Development Life Cycle
+    - title : Sophisticated Automation
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Implementing security controls to the development of applications.
+      content : Implementing security controls to your automation processes and workflows.

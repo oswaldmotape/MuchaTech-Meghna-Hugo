@@ -9,9 +9,9 @@ service:
       content : Secure your connected systems, business assets and stay compliant in today's data driven world.
 
     # service item loop
-    - name : Application Security & DevSecOps
+    - name : Application & Network Security
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Merge software development and operations teams for faster service and delivery.  
+      content : Secure your critical business network, applications for faster service and delivery.  
 
     # service item loop
     - name : Privacy & Anonymity
@@ -20,7 +20,7 @@ service:
        Control your presence, data about you and freedom on the internet.     
 
     # service item loop
-    - name : Algorithmic Robots
+    - name : DevSecOps & Algorithmic Robots
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Turn investment strategies into automated machines. # to monitor, manage trades, open trades and notifications.
 
