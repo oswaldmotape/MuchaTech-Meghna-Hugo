@@ -23,6 +23,6 @@ feature:
       content : Reduce the risk of data breach within your application.
       
       # feature item loop
-    - title : Sophisticated Automation
+    - title : Automation
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Implementing security controls to your automation processes and workflows.
