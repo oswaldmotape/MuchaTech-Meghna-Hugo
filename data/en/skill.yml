@@ -7,27 +7,27 @@ skill:
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Penetration Testing
+    - name :  Security Operation
       percent : 95%      
 
+    # skill item loop      
+    - name :  Security Architecture
+      percent : 85%
+
     # skill item loop
-    - name :  Security Assessments
+    - name :  Threat Intellegence
       percent : 75%
 
-    # skill item loop      
-    - name :  Threat Modeling
+    # skill item loop
+    - name :  Risk Assessement
       percent : 85%
 
     # skill item loop
-    - name :  Exploits Creation
-      percent : 85%
-
-    # skill item loop
-    - name :  Source Code Analysis
+    - name :  Governance
       percent : 80%
 
     # skill item loop
-    - name :  Data Analysis
+    - name :  User Education
       percent : 75%
       
 

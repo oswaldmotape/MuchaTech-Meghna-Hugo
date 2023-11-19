@@ -20,7 +20,7 @@ service:
        Control your presence, data about you and freedom on the internet.     
 
     # service item loop
-    - name : DevSecOps & Algorithmic Robots
+    - name : Algorithmic Robots
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Turn investment strategies into automated machines. # to monitor, manage trades, open trades and notifications.
 
