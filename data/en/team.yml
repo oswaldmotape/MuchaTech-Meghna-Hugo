@@ -4,7 +4,7 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Motape Oswald Langa
+    - name : Oswald Langa
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Founder/Cybersecurity Engineer
@@ -29,7 +29,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Jappie Nchang Langa
+    - name : Nchang Langa
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : UI/UX Designer
