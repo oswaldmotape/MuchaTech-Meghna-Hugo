@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["development", "algorithmic robots"]
       content : Offers taxi industry a chance to start investing.
-      link : "https://meenspay.co.za/invest"
+      link : "https://www.meenspay.co.za/invest"
       
     # portfolio item loop
     - name : Temo Process Technologies - Secure IT Infranstruture
@@ -17,7 +17,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["cybersecurity"]
       content : Security controls, data compliance of mining company.
-      link : "https://temoprocess.co.za"
+      link : "https://www.temoprocess.co.za"
       
     # portfolio item loop
     - name : Hydrosizer PLC
@@ -25,7 +25,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-3.webp
       categories : ["cybersecurity", "development"]
       content : Implemented security controls to critical system.
-      link : "https://metq.co.za"
+      link : "https://www.metq.co.za"
       
     # portfolio item loop
     - name : Hylands eCommerce
@@ -33,7 +33,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-4.webp
       categories : ["design", "development", "cybersecurity"]
       content : Local detergent manufacturing company.
-      link : "https://hylandsprocess.co.za"
+      link : "https://www.hylandsprocess.co.za"
 
     # portfolio item loop
     - name : MeensPay App
@@ -41,4 +41,4 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["development", "design", "cyberseccuirty"]
       content : Effecient and easy to navigate payment applicaion for taxi industry.
-      link : "https://meenspay.co.za/app"
+      link : "https://www.meenspay.co.za/app"
