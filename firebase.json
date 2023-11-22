@@ -10,7 +10,12 @@
       "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
       "headers": [ {
         "key": "Access-Control-Allow-Origin",
-        "value": "*"
+        "value": ["*",
+        "https://muchatech-b3a3c.web.app/js/script.min.ab3836b70bc45170e8ff6dd572ee5e8e761ac8376daf9ceb40f760dfb6f2cce49672517da770a0049959f5fc93337e13.js"
+      ]
+      },{
+        "key": "Vary",
+        "value": "Origin"
       } ]
     }, {
       "source": "**/*.@(jpg|jpeg|gif|png)",
