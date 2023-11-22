@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://muchatech-b3a3c.firebaseapp.com"
+baseURL = "https://muchatech-b3a3c.web.app/"
 title = "MuchaTech"
 theme = "meghna-hugo"
 # post pagination
