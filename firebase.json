@@ -11,9 +11,6 @@
       "headers": [ {
         "key": "Access-Control-Allow-Origin",
         "value": "*"
-      },{
-        "key": "Vary",
-        "value": "Origin"
       } ]
     }, {
       "source": "**/*.@(jpg|jpeg|gif|png)",
