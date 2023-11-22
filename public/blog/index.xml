@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on MuchaTech</title>
-    <link>https://muchatech-b3a3c.web.app/blog/</link>
+    <link>https://www.muchatech.com/blog/</link>
     <description>Recent content in Blogs on MuchaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) &amp; Developed by [Motape Oswald Langa](https://github.com/oswaldmotape)</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://muchatech-b3a3c.web.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://www.muchatech.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Setup IoT virtual lab</title>
-      <link>https://muchatech-b3a3c.web.app/blog/iot-virtual-lab-setup/</link>
+      <link>https://www.muchatech.com/blog/iot-virtual-lab-setup/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://muchatech-b3a3c.web.app/blog/iot-virtual-lab-setup/</guid>
+      <guid>https://www.muchatech.com/blog/iot-virtual-lab-setup/</guid>
       <description>Grab and install the init script from github gist by following these simple steps: STEP-1 : Clone the gist to a directory Check this link below for downloading on your computer.</description>
     </item>
     
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>https://muchatech-b3a3c.web.app/blog/installation/</link>
+      <link>https://www.muchatech.com/blog/installation/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://muchatech-b3a3c.web.app/blog/installation/</guid>
+      <guid>https://www.muchatech.com/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MuchaTech</title>
-    <link>https://muchatech-b3a3c.web.app/tags/</link>
+    <link>https://www.muchatech.com/tags/</link>
     <description>Recent content in Tags on MuchaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) &amp; Developed by [Motape Oswald Langa](https://github.com/oswaldmotape)</copyright><atom:link href="https://muchatech-b3a3c.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) &amp; Developed by [Motape Oswald Langa](https://github.com/oswaldmotape)</copyright><atom:link href="https://www.muchatech.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
