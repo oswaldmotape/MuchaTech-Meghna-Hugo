@@ -24,9 +24,7 @@
         "key": "Cache-Control",
         "value": "max-age=300"
       } ]
-    } ],
-    "cleanUrls": true,
-    "trailingSlash": false
+    } ]
   },
   "emulators": {
     "hosting": {
