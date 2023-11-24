@@ -76,7 +76,6 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
 #[[Languages.en.menu.main]]
 #name = "Dropdown"
 #weight = 7
@@ -101,7 +100,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/MuchaTech.png"
+logo = "images/MuchaTech.1.1.png"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -113,7 +112,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/MuchaTech.png"
+preloader = "images/MuchaTech.1.1.png"
 
 # cookies
 [params.cookies]
