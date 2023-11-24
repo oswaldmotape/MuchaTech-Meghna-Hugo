@@ -101,7 +101,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/MuchaTech.png"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -113,7 +113,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/MuchaTech.png"
 
 # cookies
 [params.cookies]

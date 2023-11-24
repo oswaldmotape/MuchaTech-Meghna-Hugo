@@ -31,7 +31,7 @@ portfolio:
     - name : Hylands eCommerce
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["design", "development", "cybersecurity"]
+      categories : ["design", "development"]
       content : Local detergent manufacturing company.
       link : "https://www.hylandsprocess.co.za"
 
