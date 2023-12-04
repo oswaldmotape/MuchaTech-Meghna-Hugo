@@ -100,7 +100,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/testlogo.jpg"
+logo = "images/testlogo.png"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -112,7 +112,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/testlogo.jpg"
+preloader = "images/testlogo.png"
 
 # cookies
 [params.cookies]
