@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of Cybersecurity and Software development.
+  subtitle : We’ve skilled in wide range of Cybersecurity `domains` and Software development.
   content : Effective and reliable teamwork through our inhouse talent and professionals.
   image : images/about/company-growth.webp
   skill_item :
@@ -20,6 +20,10 @@ skill:
 
     # skill item loop
     - name :  Risk Assessement
+      percent : 85%
+
+    # skill item loop
+    - name :  Privacy
       percent : 85%
 
     # skill item loop
