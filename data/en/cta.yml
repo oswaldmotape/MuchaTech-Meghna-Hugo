@@ -7,5 +7,5 @@ cta:
   content : "Helping Businesses Grow Securely is Our Bloodline"
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Start a `secure` project with us"
     link : "#contact"
