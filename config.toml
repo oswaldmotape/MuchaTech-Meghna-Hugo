@@ -2,9 +2,10 @@
 baseURL = "https://muchatech.com/"
 title = "MuchaTech"
 theme = "meghna-hugo"
+#configDir = "config"
 # post pagination
 paginate = "6"
-# post excerpt server -
+# post excerpt server
 summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
@@ -50,6 +51,31 @@ weight = 1
 name = "services"
 url = "#services"
 weight = 2
+hasChildren = true
+
+[[Languages.en.menu.main]]
+parent = "services"
+name = "Cybersecurity"
+url = "#"
+weight = 1
+
+[[Languages.en.menu.main]]
+parent = "services"
+name = "Process Automation"
+url = "#"
+weight = 2
+
+[[Languages.en.menu.main]]
+parent = "services"
+name = "Algorithmic Robots"
+url = "#"
+weight = 3
+
+[[Languages.en.menu.main]]
+parent = "services"
+name = "Software Development"
+url = "#"
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "portfolio"
@@ -61,10 +87,10 @@ name = "team"
 url = "#team"
 weight = 4
 
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#url = "#pricing"
-#weight = 5
+[[Languages.en.menu.main]]
+name = "pricing"
+url = "#pricing"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "blog"
@@ -75,28 +101,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-
-#[[Languages.en.menu.main]]
-#name = "Dropdown"
-#weight = 7
-#hasChildren = true
-
-#[[Languages.en.menu.main]]
-#parent = "Dropdown"
-#name = "Dropdown 1"
-#url = "#"
-#weight = 1
-
-#[[Languages.en.menu.main]]
-#parent = "Dropdown"
-#name = "Dropdown 2"
-#url = "#"
-#weight = 2
-
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#url = "https://themefisher.com/"
-#weight = 8
 
 ############################# Default Parameters ##########################
 [params]
@@ -152,4 +156,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [Motape Oswald Langa](https://github.com/oswaldmotape)"
+copyright = "Copyright &copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"
