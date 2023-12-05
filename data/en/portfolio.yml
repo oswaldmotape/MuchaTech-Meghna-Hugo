@@ -45,8 +45,8 @@ portfolio:
 
     # portfolio item loop
     - name : Gravitas Minerals
-      image : images/portfolio/portfolio-7.jpg
+      image : images/portfolio/Gravitas bold logo blue color TM Logo (002).jpg
       image_webp : images/portfolio/portfolio-7.webp
       categories : ["cybersecurity"]
       content : Security controls, data compliance of mining company.
-      link : "https://www.temoprocess.co.za"
+      link : "https://www.gravitasminerals.com"

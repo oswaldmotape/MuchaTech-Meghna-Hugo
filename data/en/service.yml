@@ -16,9 +16,9 @@ service:
     # service item loop
     - name : Process Automation
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Increase productivity and operations for faster client service.
+      content : Increase productivity and operations workflows for faster client service and delivery.
       
     # service item loop
     - name : Sotware Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Ignite ideas into reality through secure software development life cycle `{ SSDLC }`.          
+      content : Ignite ideas into reality through secure software development life cycle `{SSDLC}`.          

@@ -109,7 +109,7 @@ logo = "images/logo/testlogo2.png"
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
 # Google Analytics
-google_analytics_id = "G-ZZWN3QLH2S" # Your ID
+google_analytics_id = "G-ZZWN3QLH2S"
 # post share
 post_share = true
 
@@ -150,7 +150,7 @@ link = "#"
 
 
 ################################ English Language ########################
-[Languages.en]
+[Languages.en.params]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
