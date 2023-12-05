@@ -15,7 +15,7 @@ portfolio:
     - name : Temo Process Technologies - Secure IT Infranstruture
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["cybersecurity"]
+      categories : ["development", "cybersecurity"]
       content : Security controls, data compliance of mining company.
       link : "https://www.temoprocess.co.za"
       
@@ -28,17 +28,25 @@ portfolio:
       link : "https://www.metq.co.za"
       
     # portfolio item loop
-    - name : Hylands eCommerce
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["design", "development"]
-      content : Local detergent manufacturing company.
-      link : "https://www.hylandsprocess.co.za"
-
-    # portfolio item loop
     - name : MeensPay App
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["development", "design", "cyberseccuirty"]
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["design", "development", "cybersecurity"]
       content : Effecient and easy to navigate payment applicaion for taxi industry.
       link : "https://www.meenspay.co.za/app"
+
+    # portfolio item loop
+    - name : Bambi-health
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["development", "cybersecurity"]
+      content : Bringing affordable healthcare closer to you in the comfort of your home, work or school on-demand.
+      link : "https://www.bambi-health.co.za"
+
+    # portfolio item loop
+    - name : Gravitas Minerals
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["cybersecurity"]
+      content : Security controls, data compliance of mining company.
+      link : "https://www.temoprocess.co.za"
