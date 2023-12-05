@@ -1,13 +1,13 @@
 ---
-title: "How To Setup Meghna Hugo"
+title: "How To Setup Meghna Hugo Theme Used For MuchaTech Site"
 date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
+author: Motape Oswald Langa
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg
 description : "This is meta description"
 ---
 
-## Install this template by following those simple steps:
+## Install this template by following those simple steps
 
 ### STEP-1 : Hugo installation
 
@@ -18,18 +18,22 @@ Check this link below for install hugo on your computer.
 
 Hugo provides a `new` command to create a new website.
 
-```
+```code
 hugo new site <new_project>
 ```
 
 ### STEP-3 : Install the theme
+
 Run this command
-```
+
+```code
 hugo new site meghna-hugo
 ```
+
 and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
-```
+Then run the command
+
+```code
 git clone git@github.com:themefisher/meghna-hugo.git
 ```
 
@@ -43,7 +47,7 @@ open the command prompt again and run `cd ../` command for go back to the root f
 
 Launching the website locally by using the following command:
 
-```
+```code
 hugo serve
 ```
 
@@ -69,7 +73,7 @@ body {
 
 ### STEP-6 : Create your first content pages
 
-```
+```code
 hugo new blog/post-name.md
 ```
 
@@ -77,7 +81,7 @@ hugo new blog/post-name.md
 
 `When` your site is ready to deploy, run the following command:
 
-```
+```code
 hugo
 
 # You can also create a minified version by using this command:
