@@ -11,9 +11,9 @@ team:
       content : Ensuring we best serve our clients in various industries.
       social :
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/MotapeOswald"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/motape-oswald-langa-955a4079"
     # team member loop
     - name : Emanuel Tau
       image_webp : images/team/team-2.webp
