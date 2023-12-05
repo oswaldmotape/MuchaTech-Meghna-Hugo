@@ -4,25 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Penetration Testing & Security Assessments
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Secure your connected systems, business assets and stay compliant in today's data driven world.
-
-    # service item loop
-    - name : Application & Network Security
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Secure your critical business network, applications for faster service and delivery.  
-
-    # service item loop
-    - name : Privacy & Anonymity
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Protect your identity and your actions online when it matters the most.
-       Control your presence, data about you and freedom on the internet.     
+    - name : Cybersecurity Operations
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Secure your critically connected systems, applications, business assets and stay compliant in today's data driven world. 
 
     # service item loop
     - name : Algorithmic Robots
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Turn investment strategies into automated machines. # to monitor, manage trades, open trades and notifications.
+      content : Turn investment strategies into automated machines to open, manage and monitor trades.
 
     # service item loop
     - name : Process Automation
@@ -32,4 +21,4 @@ service:
     # service item loop
     - name : Sotware Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Ignite ideas into reality through secure software development life cycle.          
+      content : Ignite ideas into reality through secure software development life cycle `{ SSDLC }`.          
