@@ -109,7 +109,7 @@ logo = "images/logo/testlogo2.png"
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-ZZWN3QLH2S" # Your ID
 # post share
 post_share = true
 
