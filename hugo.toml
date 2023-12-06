@@ -4,9 +4,9 @@ title = "MuchaTech"
 theme = "meghna-hugo"
 #configDir = "config"
 # post pagination
-paginate = "6"
+paginate = 6
 # post excerpt server
-summaryLength = "15"
+summaryLength = 15
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
@@ -51,31 +51,31 @@ weight = 1
 name = "services"
 url = "#services"
 weight = 2
-hasChildren = true
+#hasChildren = true
 
-[[Languages.en.menu.main]]
-parent = "services"
-name = "Cybersecurity"
-url = "#"
-weight = 1
+# [[Languages.en.menu.main]]
+# parent = "services"
+# name = "Cybersecurity"
+# url = "#"
+# weight = 1
 
-[[Languages.en.menu.main]]
-parent = "services"
-name = "Process Automation"
-url = "#"
-weight = 2
+# [[Languages.en.menu.main]]
+# parent = "services"
+# name = "Process Automation"
+# url = "#"
+# weight = 2
 
-[[Languages.en.menu.main]]
-parent = "services"
-name = "Algorithmic Robots"
-url = "#"
-weight = 3
+# [[Languages.en.menu.main]]
+# parent = "services"
+# name = "Algorithmic Robots"
+# url = "#"
+# weight = 3
 
-[[Languages.en.menu.main]]
-parent = "services"
-name = "Software Development"
-url = "#"
-weight = 4
+# [[Languages.en.menu.main]]
+# parent = "services"
+# name = "Software Development"
+# url = "#"
+# weight = 4
 
 [[Languages.en.menu.main]]
 name = "portfolio"
