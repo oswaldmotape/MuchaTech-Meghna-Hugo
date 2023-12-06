@@ -37,6 +37,14 @@
           {
             "key": "Feature-Policy",
             "value": "microphone 'self'"
+          },
+          {
+            "key": "Alt-Svc",
+            "value": "clear"
+          },
+          {
+            "key": "Content-Encoding",
+            "value": "gzip"
           }
         ]
       },
