@@ -6,9 +6,9 @@ social:
   #- icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
   #  link : "#"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "@oswaldmotape"
+    link : "https://twitter.com/MotapeOswald"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "github.com/oswaldmotape"
+    link : "https://github.com/oswaldmotape"
 ---
 
 Eat, sleep, code and repeat.
