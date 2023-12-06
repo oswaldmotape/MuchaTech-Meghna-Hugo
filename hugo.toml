@@ -100,7 +100,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 5
+weight = 4
 
 ############################# Default Parameters ##########################
 [params]
