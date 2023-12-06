@@ -144,10 +144,13 @@ link = "https://twitter.com/MuchaTech"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCsq-SKdKuIukV2swGP3tb3g"
 
-# [[params.social]]
-# icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/muchatech"
 
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://linkedin.com/company/muchatechnology"
 
 ################################ English Language ########################
 [Languages.en.params]
