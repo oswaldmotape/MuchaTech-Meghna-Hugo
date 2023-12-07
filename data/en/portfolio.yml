@@ -4,12 +4,12 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : MeensPay Traction
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["development", "algorithmic robots"]
-      content : Offers taxi industry a chance to start investing.
-      link : "https://www.meenspay.co.za/invest"
+    # - name : MeensPay Traction
+    #   image : images/portfolio/portfolio-1.jpg
+    #   image_webp : images/portfolio/portfolio-1.webp
+    #   categories : ["development", "algorithmic robots"]
+    #   content : Offers taxi industry a chance to start investing.
+    #   link : "https://www.meenspay.co.za/invest"
       
     # portfolio item loop
     - name : Temo Process Technologies - Secure IT Infranstruture
@@ -20,20 +20,20 @@ portfolio:
       link : "https://www.temoprocess.co.za"
       
     # portfolio item loop
-    - name : Hydrosizer PLC
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["cybersecurity", "development"]
-      content : Implemented security controls to critical system.
-      link : "https://www.metq.co.za"
+    # - name : Hydrosizer PLC
+    #   image : images/portfolio/portfolio-3.jpg
+    #   image_webp : images/portfolio/portfolio-3.webp
+    #   categories : ["cybersecurity", "development"]
+    #   content : Implemented security controls to critical system.
+    #   link : "https://www.metq.co.za"
       
     # portfolio item loop
-    - name : MeensPay App
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design", "development", "cybersecurity"]
-      content : Effecient and easy to navigate payment applicaion for taxi industry.
-      link : "https://www.meenspay.co.za/app"
+    # - name : MeensPay App
+    #   image : images/portfolio/portfolio-5.jpg
+    #   image_webp : images/portfolio/portfolio-5.webp
+    #   categories : ["design", "development", "cybersecurity"]
+    #   content : Effecient and easy to navigate payment applicaion for taxi industry.
+    #   link : "https://www.meenspay.co.za/app"
 
     # portfolio item loop
     - name : Bambi-health

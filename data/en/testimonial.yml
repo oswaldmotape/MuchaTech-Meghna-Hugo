@@ -4,6 +4,14 @@ testimonial:
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
+
+      # testimonial item loop
+    - name : Lemos Kail
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 26, 2020
+      content : MuchaTech understands the importance of client satisfaction and client retention by paying attention to details!
+      
     # testimonial item loop
     - name : Jonathon Andrew
       image : images/client/client-1.jpg
@@ -18,9 +26,4 @@ testimonial:
       date : Dec 26, 2021
       content : I have never worked with such talented individuals who are passionate about their work!
       
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2020
-      content : MuchaTech understands the importance of client satisfaction and client retention by paying attention to details!
+
