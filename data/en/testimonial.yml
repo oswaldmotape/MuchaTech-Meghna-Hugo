@@ -9,21 +9,14 @@ testimonial:
     - name : Lemos Kail
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2020
+      date : Sep 26, 2021
       content : MuchaTech understands the importance of client satisfaction and client retention by paying attention to details!
 
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Mark Dinn
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2020
-      content : Love their energy, level of profesionalism and their work ethics.
-
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-3.jpg
-      image_webp : images/client/client-3.webp
-      date : Dec 26, 2021
+      date : Dec 26, 2022
       content : I have never worked with such talented individuals who are passionate about their work!
       
 
