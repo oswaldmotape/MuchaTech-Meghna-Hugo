@@ -19,6 +19,6 @@ service:
       content : Increase productivity and operations workflows for faster client service and delivery.
       
     # service item loop
-    - name : Sotware Development
+    - name : Software Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : Ignite ideas into reality through secure software development life cycle `{SSDLC}`.          
