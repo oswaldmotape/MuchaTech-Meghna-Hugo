@@ -2,6 +2,10 @@
   "hosting": {
     "public": "public",
     "ignore": [
+      ".git",
+      ".runtimeconfig.json",
+      "firebase-debug.log",
+      "firebase-debug.*.log",
       "firebase.json",
       "**/.*",
       "**/node_modules/**"

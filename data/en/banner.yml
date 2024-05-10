@@ -8,5 +8,5 @@ banner:
   content : "`{}` Your business `Assets` are protected in our hands!"
   button:
     enable : true
-    label : "Explore Us" 
+    label : "Explore Mucha" 
     link : "#services"

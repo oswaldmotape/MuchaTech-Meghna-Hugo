@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://muchatech.com/"
+baseURL = "https://www.muchatech.com/"
 title = "MuchaTech"
 theme = "meghna-hugo-master"
 #configDir = "config"
