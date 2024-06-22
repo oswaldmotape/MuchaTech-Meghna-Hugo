@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.muchatech.com/"
+baseURL = "https://muchatech.com"
 title = "MuchaTech"
 theme = "meghna-hugo-master"
 #configDir = "config"
@@ -159,4 +159,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2023 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"
+copyright = "Copyright &copy; 2024 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"
