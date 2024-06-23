@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MuchaTech</title>
-    <link>https://www.muchatech.com/</link>
+    <link>https://muchatech.com/</link>
     <description>Recent content on MuchaTech</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Jul 2023 15:50:04 +0200</lastBuildDate>
-    <atom:link href="https://www.muchatech.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://muchatech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screen Scraping Versus API Automation</title>
-      <link>https://www.muchatech.com/english/blog/screen-scraping-versus-api-automation/</link>
+      <link>https://muchatech.com/english/blog/screen-scraping-versus-api-automation/</link>
       <pubDate>Sat, 08 Jul 2023 15:50:04 +0200</pubDate>
-      <guid>https://www.muchatech.com/english/blog/screen-scraping-versus-api-automation/</guid>
+      <guid>https://muchatech.com/english/blog/screen-scraping-versus-api-automation/</guid>
       <description>Which is efficient in 2023, Screen Scrapping or API automation or Software-defined network automation or High-level orchestration or Policy-based networking Screen Scrapping API Automation Policy-based networking </description>
     </item>
     <item>
       <title>Build Network Automation Lab</title>
-      <link>https://www.muchatech.com/english/blog/build-network-automation-lab/</link>
+      <link>https://muchatech.com/english/blog/build-network-automation-lab/</link>
       <pubDate>Sat, 08 Jul 2023 15:33:22 +0200</pubDate>
-      <guid>https://www.muchatech.com/english/blog/build-network-automation-lab/</guid>
+      <guid>https://muchatech.com/english/blog/build-network-automation-lab/</guid>
       <description>Responsible for a big enterprise network that contains multi-vendor platforms and you always execute repetitive tasks?</description>
     </item>
     <item>
       <title>How To Setup IoT virtual Lab</title>
-      <link>https://www.muchatech.com/english/blog/iot-virtual-lab-setup/</link>
+      <link>https://muchatech.com/english/blog/iot-virtual-lab-setup/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>https://www.muchatech.com/english/blog/iot-virtual-lab-setup/</guid>
+      <guid>https://muchatech.com/english/blog/iot-virtual-lab-setup/</guid>
       <description>Grab and install the init script from github gist by following these simple steps STEP-1 : Clone the gist to a directory Check this link below for downloading on your computer.</description>
     </item>
     <item>
       <title>How To Setup Meghna Hugo Theme Used For MuchaTech Site</title>
-      <link>https://www.muchatech.com/english/blog/theme-install/</link>
+      <link>https://muchatech.com/english/blog/theme-install/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>https://www.muchatech.com/english/blog/theme-install/</guid>
+      <guid>https://muchatech.com/english/blog/theme-install/</guid>
       <description>Install this template by following those simple steps STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     <item>
       <title>Cybersecurity Health Check</title>
-      <link>https://www.muchatech.com/english/blog/security-health-check/</link>
+      <link>https://muchatech.com/english/blog/security-health-check/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://www.muchatech.com/english/blog/security-health-check/</guid>
+      <guid>https://muchatech.com/english/blog/security-health-check/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Motape Oswald Langa</title>
-      <link>https://www.muchatech.com/english/author/motape-oswald-langa/</link>
+      <link>https://muchatech.com/english/author/motape-oswald-langa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.muchatech.com/english/author/motape-oswald-langa/</guid>
+      <guid>https://muchatech.com/english/author/motape-oswald-langa/</guid>
       <description>Eat, sleep, code and repeat.</description>
     </item>
   </channel>
