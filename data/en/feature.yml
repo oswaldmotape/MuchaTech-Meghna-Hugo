@@ -4,8 +4,7 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re a Cybersecurity-Software Focused Company.
-  content : #"Services that grow securely with your data-driven business"
-            "Services that confidently and securely scale with your data-driven business."
+  content : "Services that confidently and securely scale with your data-driven business."
   feature_item : 
 
       # feature item loop

@@ -4,12 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : #"`Cybersecurity` your assets, the new reality" 
-          #"`Securing` your assets in the digital world: the new reality."
-          "`Safeguarding` your assets, the new reality."
-  content : #"`{}` Your business `Assets` are protected in our hands!" 
-            #"`{}` We protect your business assets." 
-            "`{}` We confidently protect your business assets."
+  title : "`Safeguarding` your assets, the new reality."
+  content : "`{}` We confidently protect your business assets."
   button:
     enable : true
     label : "Explore Mucha" 
