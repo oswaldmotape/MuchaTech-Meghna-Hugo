@@ -3,9 +3,10 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lets secure your business and software applications.
+  content : #Lets secure your business and software applications.
+            #Let's work together to ensure the security of your business and software applications.
+            "Secure your business and software applications today."
 
-  # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "10520 Dungeni Street, Daveyton, Benoni, Gauteng, South Africa"
