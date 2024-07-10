@@ -13,7 +13,7 @@ service:
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : #Turn investment strategies into automated machines to open, manage and monitor trades.
                 #"Automate investment strategies to execute, manage, and track trades."
-                Transform your investment strategies into automated systems to effortlessly execute, oversee, and track trades.
+                Transform your investment strategies into automated systems to effortlessly execute and manage positions.
 
     # service item loop
     - name : Process Automation
