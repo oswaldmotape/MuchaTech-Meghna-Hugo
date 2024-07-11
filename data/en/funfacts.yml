@@ -10,7 +10,7 @@ funfacts:
       count : "3"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "Projects completed"  
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
       count : "15"
     
