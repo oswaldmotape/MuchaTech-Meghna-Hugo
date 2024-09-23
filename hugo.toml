@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://muchatech.com/"
 title = "MuchaTech"
-theme = "meghna-hugo"
+theme = ["hugo-github-calendar","meghna-hugo"]
 #configDir = "config"
 # post pagination
 paginate = 6
@@ -11,6 +11,48 @@ summaryLength = 15
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"]
+hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
 
 ############################# Plugins ##########################
 # css plugins
@@ -51,30 +93,31 @@ weight = 1
 name = "services"
 url = "#services"
 weight = 2
-#hasChildren = true
+hasChildren = false
+
 
 # [[Languages.en.menu.main]]
 # parent = "services"
 # name = "Cybersecurity"
-# url = "#"
+# url = "#cybersecurity"
 # weight = 1
 
 # [[Languages.en.menu.main]]
 # parent = "services"
 # name = "Process Automation"
-# url = "#"
-# weight = 2
-
-# [[Languages.en.menu.main]]
-# parent = "services"
-# name = "Algorithmic Robots"
-# url = "#"
+# url = "#process_automation"
 # weight = 3
 
 # [[Languages.en.menu.main]]
 # parent = "services"
+# name = "Algorithmic Robots"
+# url = "#algorithmic_robots"
+# weight = 2
+
+# [[Languages.en.menu.main]]
+# parent = "services"
 # name = "Software Development"
-# url = "#"
+# url = "#software_development"
 # weight = 4
 
 [[Languages.en.menu.main]]
@@ -82,29 +125,29 @@ name = "portfolio"
 url = "#portfolio"
 weight = 3
 
-# [[Languages.en.menu.main]]
-# name = "team"
-# url = "#team"
-# weight = 4
+[[Languages.en.menu.main]]
+name = "team"
+url = "#team"
+weight = 4
 
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#url = "#pricing"
-#weight = 5
+# [[Languages.en.menu.main]]
+# name = "pricing"
+# url = "#pricing"
+# weight = 5
 
 # [[Languages.en.menu.main]]
 # name = "blog"
 # url = "#blog"
-# weight = 4
+# weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 4
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/testlogo2.png"
+logo = "images/logo.png"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -115,12 +158,12 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = false
-preloader = "images/testlogo2.png"
+enable = true
+preloader = "images/logo.png"
 
 # cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 # google map
@@ -153,10 +196,12 @@ icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://linkedin.com/company/muchatechnology"
 
 ################################ English Language ########################
-[Languages.en.params]
+[Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
+
+[Languages.en.params]
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2024 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"

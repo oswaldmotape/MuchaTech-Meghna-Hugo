@@ -3,50 +3,27 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-    # portfolio item loop
-    # - name : MeensPay Traction
-    #   image : images/portfolio/portfolio-1.jpg
-    #   image_webp : images/portfolio/portfolio-1.webp
-    #   categories : ["development", "algorithmic robots"]
-    #   content : Offers taxi industry a chance to start investing.
-    #   link : "https://www.meenspay.co.za/invest"
-      
+
     # portfolio item loop
     - name : Temo Process Technologies - Secure IT Infranstruture
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/Temo Process.jpg
+      image_webp : images/portfolio/Temo Process.webp
       categories : ["development", "cybersecurity"]
-      content : Security controls, data compliance of mining company.
+      content : Minerals processing solutions provider.
       link : "https://www.temoprocess.co.za"
       
     # portfolio item loop
-    # - name : Hydrosizer PLC
-    #   image : images/portfolio/portfolio-3.jpg
-    #   image_webp : images/portfolio/portfolio-3.webp
-    #   categories : ["cybersecurity", "development"]
-    #   content : Implemented security controls to critical system.
-    #   link : "https://www.metq.co.za"
-      
-    # portfolio item loop
-    # - name : MeensPay App
-    #   image : images/portfolio/portfolio-5.jpg
-    #   image_webp : images/portfolio/portfolio-5.webp
-    #   categories : ["design", "development", "cybersecurity"]
-    #   content : Effecient and easy to navigate payment applicaion for taxi industry.
-    #   link : "https://www.meenspay.co.za/app"
+    - name : Hydrosizer PLC
+      image : images/portfolio/metq.jpg
+      image_webp : images/portfolio/metq.webp
+      categories : ["cybersecurity", "development"]
+      content : Minerals processing technology provider.
+      link : "https://www.metq.co.za"
 
     # portfolio item loop
-    - name : Bambi-health
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["development", "cybersecurity"]
-      content : Bringing affordable healthcare closer to you in the comfort of your home, work or school on-demand.
-      link : "https://www.bambi-health.co.za"
-
-    # portfolio item loop
-    - name : Gravitas Minerals
-      image : images/portfolio/Gravitas bold logo blue color TM Logo (002).jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["cybersecurity"]
-      content : Security controls, data compliance of mining company.
-      link : "https://www.gravitasminerals.com"
+    - name : Oaklapine
+      image : images/portfolio/oaklapine.jpg
+      image_webp : images/portfolio/oaklapine.webp
+      categories : ["development"]
+      content : Custom build and modern furniture to create mesmerizing spaces.
+      link : "https://www.oaklapine.com"

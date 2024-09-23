@@ -9,18 +9,17 @@ service:
       content : Secure your critical connected systems, applications and business assets to ensure compliance in today's data driven world. 
 
     # service item loop
+    - name : Process Automation
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Enhance productivity and streamline operational workflows to improve client service and speed up delivery.
+
+    # service item loop
+    - name : Software Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Spark and ignite any idea into reality through a Secure Software Development Life Cycle `{SSDLC}`.          
+
     - name : Algorithmic Robots
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : #Turn investment strategies into automated machines to open, manage and monitor trades.
                 #"Automate investment strategies to execute, manage, and track trades."
-                Transform your investment strategies into automated systems to effortlessly execute and manage positions.
-
-    # service item loop
-    - name : Process Automation
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Enhance productivity and streamline operational workflows to improve client service and speed up delivery.
-      
-    # service item loop
-    - name : Software Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Ignite ideas into reality through a Secure Software Development Life Cycle `{SSDLC}`.          
+                Transform your investment strategies into automated systems to effortlessly execute, monitor and manage your trade positions.

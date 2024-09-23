@@ -1,0 +1,36 @@
+################################# Service #################################
+cybersecurity:
+  enable: true
+  image: images/services/cybersecurity/locks.jpg
+  image_webp: images/services/cybersecurity/locks.webp
+  title: Cybersecurity Ops
+  content: "Securing your business assets from all domains without a fail."
+  security_domains:
+    # service item loop
+    - title: Security Architecture
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Zero-trust approach to all active connections.
+
+    - title: Physical Security 
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.
+
+    - title: Application Security 
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.
+
+    - title: Privacy and Anonymity 
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.
+
+    - title: Security Operation
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.
+
+    - title: Enterprise Risk Management 
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.
+    
+    - title: Risk Assessment 
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Regain and control your data and presence on the internet.

@@ -7,11 +7,11 @@ skill:
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Security Operation
-      percent : 95%      
+    - name :  Application Pen Tests
+      percent : 85%      
 
     # skill item loop      
-    - name :  Security Architecture
+    - name :  Exploit Development
       percent : 85%
 
     # skill item loop
@@ -19,15 +19,15 @@ skill:
       percent : 75%
 
     # skill item loop
-    - name :  Risk Assessement
-      percent : 85%
+    - name :  Incident Response
+      percent : 90%
+      
+    # skill item loop
+    - name :  Bug Bounty
+      percent : 70%
 
     # skill item loop
-    - name :  Privacy
-      percent : 85%
-
-    # skill item loop
-    - name :  Governance
+    - name :  Lines of Defense
       percent : 80%
 
     # skill item loop

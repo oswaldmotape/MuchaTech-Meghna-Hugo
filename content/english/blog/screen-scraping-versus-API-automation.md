@@ -5,7 +5,7 @@ author: Motape Oswald Langa
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 description : "This is meta description"
-draft: false
+draft: true
 ---
 
 ## Which is efficient in 2023, Screen Scrapping or API automation or Software-defined network automation or High-level orchestration or Policy-based networking

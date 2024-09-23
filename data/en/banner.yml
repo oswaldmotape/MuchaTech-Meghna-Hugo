@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/andrea-de-santis.webp"
+  bg_image : "images/backgrounds/andrea-de-santis.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "`Safeguarding` your assets, the new reality`.`"
+  title : "watch`.` safeguard. your assets`.` the new reality."
   content : "`{}` We confidently protect your business assets."
   button:
     enable : true
-    label : "Explore Mucha" 
+    label : "Explore MuchaTech" 
     link : "#services"

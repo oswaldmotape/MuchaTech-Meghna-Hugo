@@ -1,0 +1,16 @@
+################################# Service #################################
+software_development:
+  enable: true
+  image: images/services/software/hepner.jpg
+  image_webp: images/services/software/hepner.webp
+  title: Software Dev
+  content: "Igniting and materializing ideas with `code`."
+  development_domains:
+    # service item loop
+    - title: Mobile Apps
+      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content: "Modern and well designed applications for all brands."
+
+    - title: Embeded Apps
+      icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
+      content: "Precision, highly efficient machines for critical actions."      

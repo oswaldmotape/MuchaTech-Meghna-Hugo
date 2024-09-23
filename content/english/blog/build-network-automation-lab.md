@@ -5,7 +5,7 @@ author: Motape Oswald Langa
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 description : "This is meta description"
-draft: false
+draft: true
 ---
 
 > Responsible for a big enterprise network that contains multi-vendor platforms and you always execute repetitive tasks?

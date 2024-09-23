@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8">
 	<title>Tags</title>
@@ -33,11 +33,16 @@
 
 	<!-- Custom stylesheet - for your changes -->
 	
-  <link rel="stylesheet" href="http://localhost:1313/css/custom.min.css" media="screen">
+  	<link rel="stylesheet" href="http://localhost:1313/css/custom.min.css" media="screen">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" type="image/x-icon">
-	<link rel="icon" href="http://localhost:1313/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" sizes="32x32" href="http://localhost:1313/images/favicon.png" type="image/x-icon">
+	<link rel="icon" sizes="32x32" href="http://localhost:1313/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon"  sizes="16x16" href="http://localhost:1313/images/favicon-16x16.png" type="image/x-icon">
+	<link rel="icon" sizes="16x16" href="http://localhost:1313/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" sizes="180x180" href="http://localhost:1313/images/apple-touch-icon.png" type="image/x-icon">
+	<link rel="icon" sizes="180x180" href="http://localhost:1313/images/apple-touch-icon.png" type="image/x-icon">
+	<link rel="manifest" href="images/site.manifest">
 
 	
 	<!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -52,13 +57,21 @@
 	
 
 	
-	<script async src="https://tally.so/widgets/embed.js"></script>
+	
 </head>
 
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
     
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="http://localhost:1313/images/logo.png" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
 
 
 <section class="sticky-top navigation">
@@ -66,7 +79,7 @@
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="/">
 				
-				<img class="lozad" data-src="http://localhost:1313/images/testlogo2.png" alt="MuchaTech" height="42">
+				<img class="lozad" data-src="http://localhost:1313/images/logo.png" alt="MuchaTech" height="42">
 				
 			</a>
 
@@ -106,6 +119,16 @@
           <li class="nav-item">
             <a class="nav-link" 
               href="/#portfolio">portfolio</a>
+          </li>
+          
+          
+          
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" 
+              href="/#team">team</a>
           </li>
           
           
@@ -177,7 +200,7 @@
 				<!-- copyright -->
 				<div class="copyright text-center">
 					<a href="http://localhost:1313/">
-						<img src="http://localhost:1313/images/testlogo2.png" alt="MuchaTech" height="42" />
+						<img src="http://localhost:1313/images/logo.png" alt="MuchaTech" height="42" />
 					</a>
 					<br>
 					<p>Copyright © 2024 Designed by <a href="https://github.com/muchatech">MuchaTech</a> &amp; Developed by <a href="https://github.com/muchatech">MuchaTech</a></p>
@@ -213,6 +236,26 @@
 <script src="http://localhost:1313/js/script.min.ab3836b70bc45170e8ff6dd572ee5e8e761ac8376daf9ceb40f760dfb6f2cce49672517da770a0049959f5fc93337e13.js" integrity="sha384-qzg2twvEUXDo/23Vcu5ejnYayDdtr5zrQPdg37byzOSWclF9p3CgBJlZ9fyTM34T"></script>
 
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-transparent">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
 </body>
 
 </html>

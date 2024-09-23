@@ -5,6 +5,7 @@ author: Motape Oswald Langa
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 description : "This is meta description"
+draft: true
 ---
 
 ## Grab and install the init script from github gist by following these simple steps

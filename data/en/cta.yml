@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/zanyar-ibrahim.jpg"
+  bg_image_webp : "images/backgrounds/zanyar-ibrahim.webp"
   title : "Proactive Services & Incredible Features"
   content : "Assisting businesses in secure growth is at the core of what we do."
   button:
