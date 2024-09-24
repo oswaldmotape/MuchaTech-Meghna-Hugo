@@ -3,14 +3,23 @@ software_development:
   enable: true
   image: images/services/software/hepner.jpg
   image_webp: images/services/software/hepner.webp
-  title: Software Dev
+  title: Software Development
   content: "Igniting and materializing ideas with `code`."
   development_domains:
     # service item loop
-    - title: Mobile Apps
-      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-      content: "Modern and well designed applications for all brands."
-
     - title: Embeded Apps
       icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
-      content: "Precision, highly efficient machines for critical actions."      
+      content: "Precision, highly efficient machines for mission critical functionality."      
+
+    - title: Smart Cities Applications
+      icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
+      content: "Enhance the quality of life for citizens, improve sustainability, and streamline urban operations."  
+
+    - title: Blockchain Systems
+      icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
+      content: "Designing, building, and implementing blockchain-based systems."
+
+    - title: Mobile Apps
+      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content: "Create engaging, user-friendly, and secure experiences for mobile device users."
+

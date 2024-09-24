@@ -3,34 +3,35 @@ cybersecurity:
   enable: true
   image: images/services/cybersecurity/locks.jpg
   image_webp: images/services/cybersecurity/locks.webp
-  title: Cybersecurity Ops
+  title: Cybersecurity Operations
   content: "Securing your business assets from all domains without a fail."
   security_domains:
     # service item loop
     - title: Security Architecture
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Zero-trust approach to all active connections.
-
-    - title: Physical Security 
-      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Redesign and implementation of zero trust security measures to protect organization's assets.
 
     - title: Application Security 
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Protect sensitive data, prevent financial losses, and maintain customer trust.
 
     - title: Privacy and Anonymity 
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Ensuring individuals' personal information and online activities remain secure and protected.
+              #Safeguard your personal information and maintain freedom online.
 
-    - title: Security Operation
+    - title: Physical Security 
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Protect people, assets, and facilities from unauthorized access, harm, or damage.
+    
+    - title: Security Operation `{ SecOps }`
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content:  Monitor, detect, and respond to security-related events and incidents.
 
     - title: Enterprise Risk Management 
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Identify, assess, and mitigatie risks that could impact your organization's objectives.
     
     - title: Risk Assessment 
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Regain and control your data and presence on the internet.
+      content: Protect digital assets, maintain customer trust, and ensure business continuity by addressing cybersecurity risks.
