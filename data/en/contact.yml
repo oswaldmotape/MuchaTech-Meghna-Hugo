@@ -6,6 +6,7 @@ contact:
   content : #Lets secure your business and software applications.
             #Let's work together to ensure the security of your business and software applications.
             "Secure your business and software applications today."
+  autocomplete : true
 
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
