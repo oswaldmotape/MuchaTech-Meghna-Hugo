@@ -2,7 +2,6 @@
 baseURL = "https://muchatech.com/"
 title = "MuchaTech"
 theme = "meghna-hugo"
-#configDir = "config"
 # post pagination
 paginate = 6
 # post excerpt server
@@ -53,6 +52,9 @@ maxAge = "720h"
 [markup]
 [markup.goldmark.renderer]
 unsafe = false
+
+[markup.asciidocExt]
+trace = true
 
 ############################# Plugins ##########################
 # css plugins
@@ -147,7 +149,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.webp"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -158,8 +160,8 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = true
-preloader = "images/logo.png"
+enable = false
+preloader = "images/logo.webp"
 
 # cookies
 [params.cookies]
