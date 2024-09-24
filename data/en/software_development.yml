@@ -4,7 +4,7 @@ software_development:
   image: images/services/software/hepner.jpg
   image_webp: images/services/software/hepner.webp
   title: Software Development
-  content: "Igniting and materializing ideas with `code`."
+  content: "Igniting and materializing ideas with `{code}`."
   development_domains:
     # service item loop
     - title: Embeded Apps
