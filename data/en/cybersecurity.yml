@@ -19,11 +19,7 @@ cybersecurity:
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
       content: Ensuring individuals' personal information and online activities remain secure and protected.
               #Safeguard your personal information and maintain freedom online.
-
-    - title: Physical Security 
-      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Protect people, assets, and facilities from unauthorized access, harm, or damage.
-    
+   
     - title: Security Operation `{SecOps}`
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
       content:  Monitor, detect, and respond to security-related events and incidents.
