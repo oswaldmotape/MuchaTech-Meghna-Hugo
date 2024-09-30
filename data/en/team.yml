@@ -18,7 +18,7 @@ team:
     - name : Tebogo Thaba
       image_webp : images/team/manager-2.webp
       image : images/team/manager-2.jpg
-      designation : Manager
+      designation : Manager/ESG
       content : Operations and management are my spreads.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
