@@ -51,7 +51,7 @@ maxAge = "720h"
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 
 [markup.asciidocExt]
 trace = true
