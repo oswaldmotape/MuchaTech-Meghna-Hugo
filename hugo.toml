@@ -51,7 +51,7 @@ maxAge = "720h"
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 
 [markup.asciidocExt]
 trace = true
@@ -154,7 +154,7 @@ logo = "images/logo.webp"
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
 # Google Analytics
-google_analytics_id = "G-ZZWN3QLH2S"
+google_analytics_id = "G-VV11Q6E2W3"
 # post share
 post_share = true
 
