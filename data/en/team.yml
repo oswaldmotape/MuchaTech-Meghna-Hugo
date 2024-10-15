@@ -29,7 +29,7 @@ team:
       image_webp : images/team/developer.webp
       image : images/team/developer.jpg
       designation : Developer
-      content : Anything code, I am the right syntax.
+      content : Anything to code, I am the right syntax.
       social :
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/DevCroesus"

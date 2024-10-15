@@ -149,7 +149,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.webp"
+logo = "images/V1.webp"
 # Meta data
 description = "A cybersecurity and software development company"
 author = "Motape Oswald Langa"
@@ -161,7 +161,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.webp"
+preloader = ""
 
 # cookies
 [params.cookies]
@@ -206,4 +206,4 @@ contentDir = "content/english"
 [Languages.en.params]
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2024 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"
+copyright = "Copyright &copy; 2020-2024 Designed by [MuchaTech](https://github.com/muchatech) & Developed by [MuchaTech](https://github.com/muchatech)"

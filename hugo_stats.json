@@ -185,7 +185,6 @@
       "wow"
     ],
     "ids": [
-      "",
       "about",
       "blog",
       "body",
@@ -201,6 +200,9 @@
       "js-cookie-box",
       "js-cookie-button",
       "message",
+      "my-form",
+      "my-form-button",
+      "my-form-status",
       "name",
       "navigation",
       "portfolio",
